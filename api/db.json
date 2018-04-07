@@ -1,0 +1,359 @@
+{
+  "author": {
+    "firstName": "Boris",
+    "lastName": "Cherepakha",
+    "email": "bcherepakha@gmail.com",
+    "github": "https://github.com/bcherepakha/"
+  },
+  "posts": [
+    {
+      "title": "Post #1",
+      "content": "It is a simple post content",
+      "id": 1
+    }
+  ],
+  "data": [
+    {
+      "_id": "5ac810b7ae475d1485685c98",
+      "index": 0,
+      "guid": "c2c369e8-d7e7-484d-af30-ca16ba6d7b74",
+      "isActive": false,
+      "balance": "$2,719.89",
+      "picture": "http://placehold.it/32x32",
+      "age": 35,
+      "eyeColor": "brown",
+      "name": {
+        "first": "Meyers",
+        "last": "Martinez"
+      },
+      "company": "AVENETRO",
+      "email": "meyers.martinez@avenetro.org",
+      "phone": "+1 (875) 524-2584",
+      "address": "226 Debevoise Avenue, Goldfield, New Mexico, 9532",
+      "about": "Et mollit sit sint dolore in et velit est ea anim proident. Reprehenderit ad incididunt duis tempor nostrud duis est occaecat. Deserunt ex consectetur voluptate pariatur ipsum consectetur magna aliqua velit excepteur Lorem tempor eiusmod. Enim irure culpa elit Lorem cupidatat cillum. Tempor do incididunt mollit nisi. Sunt esse irure excepteur anim magna qui adipisicing ea. Consectetur laboris eiusmod esse culpa tempor voluptate culpa laborum excepteur est id commodo.",
+      "registered": "Wednesday, April 8, 2015 8:16 PM",
+      "latitude": "54.892853",
+      "longitude": "135.923406",
+      "tags": [
+        "ut",
+        "esse",
+        "excepteur",
+        "dolore",
+        "ex"
+      ],
+      "range": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Abigail Vaughan"
+        },
+        {
+          "id": 1,
+          "name": "June Hickman"
+        },
+        {
+          "id": 2,
+          "name": "Munoz Good"
+        }
+      ],
+      "greeting": "Hello, Meyers! You have 9 unread messages.",
+      "favoriteFruit": "banana"
+    },
+    {
+      "_id": "5ac810b7f2123090b74ecff2",
+      "index": 1,
+      "guid": "197402c4-6e66-43f3-845a-30fcdddfbe90",
+      "isActive": true,
+      "balance": "$2,601.64",
+      "picture": "http://placehold.it/32x32",
+      "age": 33,
+      "eyeColor": "brown",
+      "name": {
+        "first": "Collier",
+        "last": "Lyons"
+      },
+      "company": "STRALOY",
+      "email": "collier.lyons@straloy.biz",
+      "phone": "+1 (934) 522-2322",
+      "address": "491 Newkirk Avenue, Worton, Kentucky, 9674",
+      "about": "Laboris elit aute enim adipisicing ex deserunt. Dolore mollit veniam ad duis ut anim incididunt consequat ut nostrud. Nisi officia est sint fugiat.",
+      "registered": "Wednesday, May 7, 2014 1:03 PM",
+      "latitude": "-63.185167",
+      "longitude": "144.403154",
+      "tags": [
+        "voluptate",
+        "duis",
+        "ullamco",
+        "labore",
+        "sint"
+      ],
+      "range": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Rachelle Cobb"
+        },
+        {
+          "id": 1,
+          "name": "Whitaker Mcmahon"
+        },
+        {
+          "id": 2,
+          "name": "Estes Garrison"
+        }
+      ],
+      "greeting": "Hello, Collier! You have 9 unread messages.",
+      "favoriteFruit": "apple"
+    },
+    {
+      "_id": "5ac810b7ea81914700ae22e6",
+      "index": 2,
+      "guid": "3cedf129-8703-4af1-aded-290251202863",
+      "isActive": false,
+      "balance": "$2,201.50",
+      "picture": "http://placehold.it/32x32",
+      "age": 27,
+      "eyeColor": "blue",
+      "name": {
+        "first": "Key",
+        "last": "Christian"
+      },
+      "company": "NETROPIC",
+      "email": "key.christian@netropic.info",
+      "phone": "+1 (955) 479-3982",
+      "address": "229 Norfolk Street, Coultervillle, Alaska, 4088",
+      "about": "Irure sint ut laboris exercitation. Qui elit minim do occaecat cupidatat do ipsum. Minim eu laboris aute tempor dolore. Ad Lorem adipisicing et enim in qui. Reprehenderit excepteur enim labore proident nulla amet et consequat sint culpa in amet ullamco laboris. Ullamco cupidatat officia ad exercitation anim esse anim sit id.",
+      "registered": "Tuesday, April 28, 2015 12:45 PM",
+      "latitude": "-81.186549",
+      "longitude": "19.199444",
+      "tags": [
+        "ad",
+        "anim",
+        "voluptate",
+        "elit",
+        "tempor"
+      ],
+      "range": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Jody Garza"
+        },
+        {
+          "id": 1,
+          "name": "Lorrie Fitzpatrick"
+        },
+        {
+          "id": 2,
+          "name": "Chan Pearson"
+        }
+      ],
+      "greeting": "Hello, Key! You have 9 unread messages.",
+      "favoriteFruit": "apple"
+    },
+    {
+      "_id": "5ac810b7fa2d80e3d07dd6e6",
+      "index": 3,
+      "guid": "45652901-a47c-4468-bdd4-a57ae3062c66",
+      "isActive": true,
+      "balance": "$2,811.66",
+      "picture": "http://placehold.it/32x32",
+      "age": 39,
+      "eyeColor": "blue",
+      "name": {
+        "first": "Oneill",
+        "last": "Olson"
+      },
+      "company": "SLAX",
+      "email": "oneill.olson@slax.biz",
+      "phone": "+1 (942) 520-3495",
+      "address": "815 Schenck Street, Berwind, Federated States Of Micronesia, 1409",
+      "about": "Aliquip nisi dolore amet quis reprehenderit ullamco quis nulla. Lorem occaecat ut incididunt consequat in reprehenderit Lorem amet id aliquip enim ullamco tempor. Non fugiat velit sit ullamco elit aute ut id sit ea voluptate. Id ipsum ad aliqua deserunt laboris aute elit culpa proident cillum aliqua exercitation ex. Veniam excepteur veniam laboris est sit. Laborum in eiusmod veniam ullamco duis tempor.",
+      "registered": "Wednesday, December 21, 2016 7:14 PM",
+      "latitude": "-78.525932",
+      "longitude": "123.008134",
+      "tags": [
+        "ut",
+        "mollit",
+        "pariatur",
+        "commodo",
+        "nostrud"
+      ],
+      "range": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Sasha York"
+        },
+        {
+          "id": 1,
+          "name": "Shelton Sloan"
+        },
+        {
+          "id": 2,
+          "name": "Barnes Fleming"
+        }
+      ],
+      "greeting": "Hello, Oneill! You have 7 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "_id": "5ac810b75d9bc249970a33b9",
+      "index": 4,
+      "guid": "dfadf5a5-0fc6-4d37-9fb8-493a754b5de1",
+      "isActive": false,
+      "balance": "$3,448.46",
+      "picture": "http://placehold.it/32x32",
+      "age": 30,
+      "eyeColor": "blue",
+      "name": {
+        "first": "Macdonald",
+        "last": "Reed"
+      },
+      "company": "FIBRODYNE",
+      "email": "macdonald.reed@fibrodyne.co.uk",
+      "phone": "+1 (985) 570-2319",
+      "address": "276 Linwood Street, Olney, North Dakota, 850",
+      "about": "Ea amet dolor ut mollit anim cupidatat aliquip fugiat. Nostrud duis id cupidatat ad ullamco sint reprehenderit sunt adipisicing occaecat consequat. Consequat enim et reprehenderit reprehenderit anim non veniam consequat. Velit proident adipisicing voluptate incididunt commodo aliquip aliquip tempor laboris esse. Dolor fugiat tempor do irure esse. Nisi nisi mollit consequat cillum cupidatat aliqua tempor velit culpa.",
+      "registered": "Monday, March 28, 2016 3:32 AM",
+      "latitude": "75.504612",
+      "longitude": "5.052293",
+      "tags": [
+        "voluptate",
+        "laborum",
+        "eiusmod",
+        "irure",
+        "ex"
+      ],
+      "range": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Lindsay Coffey"
+        },
+        {
+          "id": 1,
+          "name": "Toni Johnson"
+        },
+        {
+          "id": 2,
+          "name": "Patel Ferguson"
+        }
+      ],
+      "greeting": "Hello, Macdonald! You have 5 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "_id": "5ac810b71c6c290a2ff04537",
+      "index": 5,
+      "guid": "e1f452f6-84b6-4185-ba46-497309c0a2b7",
+      "isActive": true,
+      "balance": "$1,812.83",
+      "picture": "http://placehold.it/32x32",
+      "age": 21,
+      "eyeColor": "blue",
+      "name": {
+        "first": "Fitzpatrick",
+        "last": "Sutton"
+      },
+      "company": "BALOOBA",
+      "email": "fitzpatrick.sutton@balooba.com",
+      "phone": "+1 (858) 556-3789",
+      "address": "365 Powers Street, Aberdeen, Colorado, 3154",
+      "about": "Ad reprehenderit in officia magna veniam. Ullamco consectetur et ad nostrud eu id non sint laborum. Mollit sunt cupidatat consectetur tempor in esse dolor id elit sit id in excepteur incididunt. Lorem sunt occaecat velit sunt elit.",
+      "registered": "Friday, December 18, 2015 10:58 AM",
+      "latitude": "-34.951279",
+      "longitude": "-66.255346",
+      "tags": [
+        "eu",
+        "pariatur",
+        "qui",
+        "nulla",
+        "veniam"
+      ],
+      "range": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Watkins Benjamin"
+        },
+        {
+          "id": 1,
+          "name": "Cameron Pace"
+        },
+        {
+          "id": 2,
+          "name": "Adrienne Perry"
+        }
+      ],
+      "greeting": "Hello, Fitzpatrick! You have 6 unread messages.",
+      "favoriteFruit": "apple"
+    }
+  ]
+}
